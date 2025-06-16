@@ -71,6 +71,6 @@ Ensure your .env files are configured for both frontend (Next.js) and backend (F
 - Urmil Gadhiya 
 - Meet Goti 
 - Manav Kakkad
-- 
+
 ⭐ Like this project?
 If you found this useful, drop a ⭐ on the repo and share it with your peers!
